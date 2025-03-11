@@ -1,13 +1,13 @@
 # BankAPI
 
-📌 Beskrivning
-Detta är ett API utvecklat i C#/.NET som hanterar kund-, konto- och transaktionsdata. 
-API:et är strukturerat enligt Repository Pattern för att separera affärslogik från dataåtkomst.
+###📌 Beskrivning
+#Detta är ett API utvecklat i C#/.NET som hanterar kund-, konto- och transaktionsdata. 
+#API:et är strukturerat enligt Repository Pattern för att separera affärslogik från dataåtkomst.
 
-🔹 Teknisk Struktur
-Projektet är organiserat i följande mappar/namespaces:
+###🔹 Teknisk Struktur
+#Projektet är organiserat i följande mappar/namespaces:
 
-Controllers – Hanterar inkommande HTTP-förfrågningar och returnerar svar.
+#Controllers – Hanterar inkommande HTTP-förfrågningar och returnerar svar.
 Services – Innehåller affärslogik och hanterar data från repositories.
 Repositories – Abstraherar dataåtkomst och hanterar databasoperationer.
 Models – Innehåller entiteter som speglar databasstrukturen.
