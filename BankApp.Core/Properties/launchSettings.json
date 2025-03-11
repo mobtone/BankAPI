@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankApp.Core": {
+      "commandName": "Project",
+      "workingDirectory": "http://localhost:5275/"
+    }
+  }
+}
